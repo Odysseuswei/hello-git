@@ -381,7 +381,7 @@ double Spring(double* X)
 	//Y[0]= Yy;
 	//Y[1]= Yy;
 	//Y[2]= Yy;*/
-  double Yy= 10.0;
+  double Yy= 0.0;
   return Yy;
 
 		/*
